@@ -1,0 +1,31 @@
+project:
+  type: book
+
+book:
+  title: "Big Book of My PhD"
+  author: "Shamsuddeen Hassan Muhammad"
+  date: "01/07/2022"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - communities.qmd
+    - tools.qmd
+    - python.qmd
+    - R.qmd
+    - opp.qmd
+    - sw.qmd
+    - NLP.qmd
+    - dl.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
