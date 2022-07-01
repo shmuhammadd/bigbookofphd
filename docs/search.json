@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Big Book of My PhD",
     "section": "",
-    "text": "Hello, thank you for stopping by. In this document, you will find some of the stuff I have come across in my Ph.D. research and my personal experience.\n// find sum of two numbers"
+    "text": "Hello, thank you for stopping by. In this document, you will find some of the stuff I have come across in my Ph.D. research and my personal experience."
   },
   {
     "objectID": "intro.html",
@@ -25,7 +25,7 @@
     "href": "tools.html",
     "title": "3  Softwares and Tools",
     "section": "",
-    "text": "See Knuth (1984) for additional discussion of literate programming. ç\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "This is a book created from markdown and executable code."
   },
   {
     "objectID": "python.html",
@@ -46,14 +46,14 @@
     "href": "opp.html",
     "title": "6  Opportunities",
     "section": "",
-    "text": "See Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "This is a book created from markdown and executable code."
   },
   {
     "objectID": "sw.html",
     "href": "sw.html",
     "title": "7  Scientific Writing",
     "section": "",
-    "text": "See Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "This is a book created from markdown and executable code."
   },
   {
     "objectID": "NLP.html",
@@ -67,7 +67,7 @@
     "href": "dl.html",
     "title": "9  Deep Learning",
     "section": "",
-    "text": "See Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "This is a book created from markdown and executable code."
   },
   {
     "objectID": "summary.html",
