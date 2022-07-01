@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 book:
-  title: "Big Book of My PhD"
+  title: "The Big Book of My PhD"
   author: "Shamsuddeen Hassan Muhammad"
   date: "01/07/2022"
   chapters:
