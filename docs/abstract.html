@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Big book of my PhD - Project 1: Weighted Dice</title>
+<title>Big book of my PhD - 6&nbsp; R Objects</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,8 +25,6 @@ ul.task-list{list-style: none;}
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./basics.html" rel="next">
-<link href="./preface.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -65,7 +63,7 @@ ul.task-list{list-style: none;}
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Project 1: Weighted Dice</h1>
+      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">R Objects</span></h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -124,7 +122,7 @@ ul.task-list{list-style: none;}
 </li>
         <li class="sidebar-item sidebar-item-section">
     <div class="sidebar-item-container"> 
-        <a href="./dice.html" class="sidebar-item-text sidebar-link active">Project 1: Weighted Dice</a>
+        <a href="./dice.html" class="sidebar-item-text sidebar-link">Project 1: Weighted Dice</a>
       <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
         <i class="bi bi-chevron-right ms-2"></i>
       </a>
@@ -247,14 +245,20 @@ ul.task-list{list-style: none;}
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#expression-to-be-use-in-writting" id="toc-expression-to-be-use-in-writting" class="nav-link active" data-scroll-target="#expression-to-be-use-in-writting"> <span class="header-section-number">6.1</span> Expression to be use in writting</a></li>
+  </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/shmuhammad2004/bigbookofphd/edit/master/abstract.qmd" class="toc-action">Edit this page</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span id="sec-project-dice" class="quarto-section-identifier d-none d-lg-block">Project 1: Weighted Dice</span></h1>
+<h1 class="title"><span id="sec-r-objects" class="quarto-section-identifier d-none d-lg-block"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">R Objects</span></span></h1>
 </div>
 
 
@@ -268,36 +272,16 @@ ul.task-list{list-style: none;}
 
 </header>
 
-<p>Computers let you assemble, manipulate, and visualize data sets, all at speeds that would have wowed yesterday’s scientists. In short, computers give you scientific superpowers! But if you wish to use them, you’ll need to pick up some programming skills.</p>
-<p>As a data scientist who knows how to program, you will improve your ability to:</p>
+<section id="expression-to-be-use-in-writting" class="level2" data-number="6.1">
+<h2 data-number="6.1" class="anchored" data-anchor-id="expression-to-be-use-in-writting"><span class="header-section-number">6.1</span> Expression to be use in writting</h2>
 <ul>
-<li>Memorize (store) entire data sets</li>
-<li>Recall data values on demand</li>
-<li>Perform complex calculations with large amounts of data</li>
-<li>Do repetitive tasks without becoming careless or bored</li>
+<li><p><strong>Curiously, it turns out that</strong> the classifications that we get if we use linear regression to predict a binary response will be the same as for the linear discriminant analysis (LDA) procedure we discuss in Section 4.4</p></li>
+<li><p>Values of the odds close to 0 and ∞ indicate very low and very high probabilities of default, respectively.</p></li>
+<li><p>Asume p =1—that is, we have one parameter for each feature.</p></li>
 </ul>
-<p>Computers can do all of these things quickly and error free, which lets your mind do the things <em>it</em> does well: make decisions and assign meaning.</p>
-<p>Sound exciting? Great! Let’s begin.</p>
-<p>When I was a college student, I sometimes daydreamed of going to Las Vegas. I thought that knowing statistics might help me win big. If that’s what led <em>you</em> to data science, you better sit down; I have some bad news. Even a statistician will lose money in a casino over the long run. This is because the odds for each game are always stacked in the casino’s favor. However, there is a loophole to this rule. You can make money–and reliably too. All you have to do is <em>be the casino</em>.</p>
-<p>Believe it or not, R can help you do that. Over the course of the book, you will use R to build three virtual objects: a pair of dice that you can roll to generate random numbers, a deck of cards that you can shuffle and deal from, and a slot machine modeled after some real-life video lottery terminals. After that, you’ll just need to add some video graphics and a bank account (and maybe get a few government licenses), and you’ll be in business. I’ll leave those details to you.</p>
-<p>These projects are lighthearted, but they are also deep. As you complete them, you will become an expert at the skills you need to work with data as a data scientist. You will learn how to store data in your computer’s memory, how to access data that is already there, and how to transform data values in memory when necessary. You will also learn how to write your own programs in R that you can use to analyze data and run simulations.</p>
-<p>If simulating a slot machine (or dice, or cards) seems frivilous, think of it this way: playing a slot machine is a process. Once you can simulate it, you’ll be able to simulate other processes, such as bootstrap sampling, Markov chain Monte Carlo, and other data-analysis procedures. Plus, these projects provide concrete examples for learning all of the components of R programming: objects, data types, classes, notation, functions, environments, <code>if</code> trees, loops, and vectorization. This first project will make it easier to study these things by teaching you the basics of R.</p>
-<p>Your first mission is simple: assemble R code that will simulate rolling a pair of dice, like at a craps table. Once you have done that, we’ll weight the dice a bit in your favor, just to keep things interesting.</p>
-<p>In this project, you will learn how to:</p>
-<ul>
-<li>Use the R and RStudio interfaces</li>
-<li>Run R commands</li>
-<li>Create R objects</li>
-<li>Write your own R functions and scripts</li>
-<li>Load and use R packages</li>
-<li>Generate random samples</li>
-<li>Create quick plots</li>
-<li>Get help when you need it</li>
-</ul>
-<p>Don’t worry if it seems like we cover a lot of ground fast. This project is designed to give you a concise overview of the R language. You will return to many of the concepts we meet here in projects 2 and 3, where you will examine the concepts in depth.</p>
-<p>You’ll need to have both R and RStudio installed on your computer before you can use them. Both are free and easy to download. See <a href="a1-starting.html"><span>Chapter&nbsp;A</span></a> for complete instructions. If you are ready to begin, open RStudio on your computer and read on.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -379,18 +363,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-<nav class="page-navigation">
-  <div class="nav-page nav-page-previous">
-      <a href="./preface.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Preface</span>
-      </a>          
-  </div>
-  <div class="nav-page nav-page-next">
-      <a href="./basics.html" class="pagination-link">
-        <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">The Very Basics</span></span> <i class="bi bi-arrow-right-short"></i>
-      </a>
-  </div>
-</nav>
 </div> <!-- /content -->
 
 
