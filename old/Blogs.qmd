@@ -1,0 +1,7 @@
+# Blogs
+
+Here are list of blogs I found useful
+
+1. Sebastian Raschka's [blog](https://sebastianraschka.com/blog/index.html). He writes blog on machine learning and deep learning.
+
+2. 
