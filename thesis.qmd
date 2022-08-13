@@ -1,0 +1,4 @@
+# Thesis: Daily Progress  {#sec-project-slots}
+
+I commit to writting thesis daily.
+

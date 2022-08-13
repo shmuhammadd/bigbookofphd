@@ -1,0 +1,10 @@
+# Project 1: Awosome Sites {#sec-project-dice}
+
+Computers let you assemble, manipulate, and visualize data sets, all at speeds that would have wowed yesterday's scientists. In short, computers give you scientific superpowers! But if you wish to use them, you'll need to pick up some programming skills.
+
+As a data scientist who knows how to program, you will improve your ability to:
+
+-   Memorize (store) entire data sets
+-   Recall data values on demand
+-   Perform complex calculations with large amounts of data
+-   Do repetitive tasks without becoming careless or bored

@@ -1,32 +1,49 @@
 project:
   type: book
   output-dir: docs
-
+  
 book:
-  title: "The Big Book of My PhD"
+  title: "Big book of my PhD"
   author: "Shamsuddeen Hassan Muhammad"
-  date: "01/07/2022"
+  cover-image: images/cover.png
+  site-url: https://rstudio-education.github.io/hopr/
+  repo-url: https://github.com/jjallaire/hopr/
+  repo-branch: master
+  repo-actions: [edit]
+  sharing: [twitter, facebook, linkedin]
   chapters:
     - index.qmd
-    - intro.qmd
-    - communities.qmd
-    - tools.qmd
-    - python.qmd
-    - R.qmd
-    - opp.qmd
-    - sw.qmd
-    - NLP.qmd
-    - dl.qmd
-    - summary.qmd
-    - references.qmd
-
-bibliography: references.bib
+    - preface.qmd
+    - part: dice.qmd
+      chapters: 
+        - basics.qmd
+        - packages.qmd
+    - part: awosomewebsite.qmd
+      chapters: 
+        - github.qmd
+        - courses.qmd
+        - websites.qmd
+    - part: AcademicPhrases.qmd
+      chapters:
+        - abstract.qmd
+        - intro.qmd
+        - modifying.qmd
+        - environments.qmd
+    - part: thesis.qmd
+      chapters:
+        - july04.qmd
+        - july05.qmd
+  appendices:
+    - a1-starting.qmd
+    - a2-packages.qmd
+    - a3-updating.qmd
+    - a4-data.qmd
+    - a5-debug.qmd 
 
 format:
-  html:
+  html: 
     theme: cosmo
-  pdf:
-    documentclass: scrreprt
-
+    cover-image: cover.png
+    code-link: true
 
 

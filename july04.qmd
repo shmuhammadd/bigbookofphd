@@ -1,0 +1,85 @@
+# July 03,2022 {#sec-programs}
+
+Today I start to write my PhD thesis. I will achieve the following by the end of today:
+
+1. Structure of the PhD thesis to set the boll rolling 
+2. Search and collect materials that will help me to write the PhD thesis such as books and advices.
+
+### Books for PhD Advice
+
+1. [Authoring a PhD Thesis: How to Plan, Draft, Write and Finish a Doctoral Dissertation 3rd Edition](https://www.amazon.com/Authoring-PhD-Thesis-Plan-Dissertation/dp/B00I8XZQ2Y)
+
+2. [Writing Your Dissertation in Fifteen Minutes a Day: A Guide to Starting, Revising, and Finishing Your Doctoral Thesis](https://www.amazon.com/Writing-Your-Dissertation-Fifteen-Minutes/dp/080504891X/ref=pd_sbs_sccl_2_1/138-7635952-3143259?pd_rd_w=TGnJf&content-id=amzn1.sym.3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=SEM455ZNGQPJQS95X892&pd_rd_wg=gHgfj&pd_rd_r=8c83f4ee-031e-4032-830f-b90509b68a48&pd_rd_i=080504891X&psc=1#customerReviews)
+
+
+3. [The Literature Review: Six Steps to Success Third Edition](https://www.amazon.com/Literature-Review-Six-Steps-Success/dp/1506336248/ref=pd_bxgy_sccl_2/138-7635952-3143259?pd_rd_w=7owk2&content-id=amzn1.sym.7757a8b5-874e-4a67-9d85-54ed32f01737&pf_rd_p=7757a8b5-874e-4a67-9d85-54ed32f01737&pf_rd_r=R0S8S9XPG6V6NC94ACR6&pd_rd_wg=V7l4r&pd_rd_r=4c0900b0-2819-4535-9dc4-ad891ebc58ad&pd_rd_i=1506336248&psc=1#customerReviews)
+
+
+4. [The Craft of Research, Fourth Edition (Chicago Guides to Writing, Editing, and Publishing) Fourth Edition](https://www.amazon.com/Literature-Review-Six-Steps-Success/dp/1506336248/ref=pd_bxgy_sccl_2/138-7635952-3143259?pd_rd_w=7owk2&content-id=amzn1.sym.7757a8b5-874e-4a67-9d85-54ed32f01737&pf_rd_p=7757a8b5-874e-4a67-9d85-54ed32f01737&pf_rd_r=R0S8S9XPG6V6NC94ACR6&pd_rd_wg=V7l4r&pd_rd_r=4c0900b0-2819-4535-9dc4-ad891ebc58ad&pd_rd_i=1506336248&psc=1#customerReviews)
+
+> As a PhD student, I had written dozens and dozens of research papers before reading this book. I wish now that I could redo them. The information presented in this book is clear and thorough. Even on my first skim of the book I have learned valuable skills that will improve my writing!! I only wish my undergrad professors had forced me to read this book previously!!
+
+> It’s still the best, esp. for new or returning graduate students, or for new faculty who teach grad classes or work in a research lab. It’s very clear without dumbing down the information, and does an excellent job of putting research questions in context. I still refer my grad students to the first chapters, esp. because the author takes the reader by the hand through examples of how to construct a decent research question, from scope to validity. Hard to beat.
+
+> My university students adore this book. They all wish they were assigned it in their first year of college rather than their fourth year (when they have me).
+
+How to Write a Lot: A Practical Guide to Productive Academic Writing (Paperback)
+
+On Writing, by Stephen King     
+
+
+Strunk and Whites’ The Elements of Style
+
+
+> 
+
+
+### Blog for PhD Advice
+Collections of Advise I have collected from multiple sources
+
+1. [As a PhD Examiner … My Top 25 Tips for PhD students](https://medium.com/asecuritysite-when-bob-met-alice/as-a-phd-examiner-my-top-25-tips-for-phd-students-4ecb76a307e7)
+1. Find good and best PhD thesis related to your field of study. You can find PhD Thesis on [PhDThesis.org](https://www.phdthesis.org/). Read through the thesis see how the thesis are structured. From there you can make your own structure too.
+
+1. Just Start Writing: No better time than now. Just start writting.
+
+2. Make a Schedule : Try to make schedule for each chapter and work toward completing it. Also, determine how many pages the chapter may take
+
+2. Write the Introductions Last: Skip introduction since it will change after completing the chapters. 
+
+4. Move Around : Dont stick on one chapter, if you are stuck, move to another chapter or section
+
+5. Get Feedback Early : Give supervisor draft for each chapter and get feedback early. Dont wait until the end to get feedback for the complete thesis. Give your supervisor enough time to read your thesis. Believe me they are busy, so agree a timescale with them.
+
+6. When you write a section leave it for a couple of days, then come back and edit it. This will help you to see mistakes more easily, with fresh eyes. You can repeat this process several times until you can’t find any more mistakes. Then, it’s time to give your thesis to somebody else to proofread.
+
+7. Start the document in style. Formatting the document from the start will make it easier at editing time[^2].
+
+[^2]: [Sailing Through Your PhD Thesis: Writing Tips](https://hellobio.com/blogsailing-through-your-phd-thesis-dissertation-writing-tips.html)
+
+
+6. References: Read your references one more time. Sometimes the reference management software makes mistakes.
+
+
+8. If there's research or analysis still to do, prioritize this over writing
+
+
+9. Preparation : Get rid of distractions (chats, emails, etc.).[^3]
+
+[^3]: [How I wrote a PhD thesis in 3 months](https://phd.academy/blog/how-i-wrote-a-phd-thesis-in-3-months)
+
+10. Targets and consistency : Set a target and be consistent to that target (e.g., number of words to write). Dont be disappointed if you miss the target.  "Set your target as something you know you can achieve daily, then beat it. Don't set it as high as you can possibly imagine. I had a daily minimum target of 500 words, which I knew I could meet even on the least productive days. This meant that because I smashed the target most days, I finished every day feeling good about my progress, which in turn meant I started the next day feeling confident"[^3]
+
+11. Routine : Leave something easy that you will start next day at the end of each day. Close your computer browsers and clean your desk. This makes it easy for you to pick up next day.[^3]
+
+
+
+[^3]: [How I wrote a PhD thesis in 3 months](https://phd.academy/blog/how-i-wrote-a-phd-thesis-in-3-months)
+
+
+
+
+- [10 tips for writing a PhD thesis](https://www.timeshighereducation.com/blog/10-tips-writing-phd-thesis)
+
+
+### Video for PhD Advice
+

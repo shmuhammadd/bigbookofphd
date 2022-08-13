@@ -1,0 +1,20 @@
+# Github Repos {#sec-basics}
+
+## NLP Repositories
+
+1. [Tutorials on implementing a few sequence-to-sequence (seq2seq) models with PyTorch and TorchText](https://github.com/bentrevett/pytorch-seq2seq)
+
+ > This repo contains tutorials covering understanding and implementing sequence-to-sequence (seq2seq) models using PyTorch 1.8, torchtext 0.9 and spaCy 3.0, using Python 3.8.
+
+
+2. [Tutorials on implementing a few sequence-to-sequence (seq2seq) models with PyTorch and TorchText](https://github.com/bentrevett/pytorch-sentiment-analysis)
+
+> This repo contains tutorials covering how to do sentiment analysis using PyTorch 1.8 and torchtext 0.9 using Python 3.7.
+
+3. [A Tour of PyTorch Optimizers](https://github.com/bentrevett/a-tour-of-pytorch-optimizers)
+
+> In this repo implement different gradient descent optimization algorithms by describing how they work and then implementing them in PyTorch (using version 1.10).
+
+
+
+

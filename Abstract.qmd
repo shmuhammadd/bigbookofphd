@@ -1,0 +1,10 @@
+# R Objects {#sec-r-objects}
+
+## Expression to be use in writting
+
+- **Curiously, it turns out that** the classifications that we get if we use linear regression to predict a binary response will be the same as for the linear discriminant analysis (LDA) procedure we discuss in Section 4.4
+
+
+- Values of the odds close to 0 and ∞ indicate very low and very high probabilities of default, respectively.
+
+- Asume p =1---that is, we have one parameter for each feature.

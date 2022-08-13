@@ -1,4 +1,19 @@
-# Preface {.unnumbered}
+---
+description-meta: |
+  This book document my PhD life ! 
 
-Hello, thank you for stopping by. In this document, you will find some of the stuff I have come across in my Ph.D. research and my personal experience.
+---
 
+## Welcome {.unnumbered}
+
+This is the website for **"Big book for my PhD"** by Shamsuddeen Muhammad. This book contains resources, tips, recommdations based on my experience as a PhD student. I decided to put everything in this book and make it available to the public so that someone can read and benfit the experience or the resources.
+
+
+
+
+::: {.callout-note appearance="simple"}
+You can visit my website and blog
+:::
+## License
+
+This website is (and will always be) **free to use**, and is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) License. 
