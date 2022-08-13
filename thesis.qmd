@@ -1,4 +1,4 @@
-# Thesis: Daily Progress  {#sec-project-slots}
+# Thesis {.unnumbered}
 
 I commit to writting thesis daily.
 

@@ -1,9 +1,0 @@
-# Introduction {#sec-r-notation}
-
-
-- However, despite their usefulness, xx are far from being a silver bullet
-
-- Heere are a few challenges associated with them that we will explore 
-
-- Issue with Transformer and other deep learning models is opecity: 
-As with other deep learning models, transformers are to a large extent opaque. It is hard or impossible to unravel “why” a model made a certain prediction. This is an especially hard challenge when these models are deployed to make critical decisions.

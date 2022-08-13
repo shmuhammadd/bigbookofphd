@@ -12,7 +12,7 @@ This is the website for **"Big book for my PhD"** by Shamsuddeen Muhammad. This 
 
 
 ::: {.callout-note appearance="simple"}
-You can visit my website and blog
+You can visit my [blog](https://blogs.shmuhammad.com)
 :::
 ## License
 

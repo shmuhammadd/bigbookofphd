@@ -4,7 +4,9 @@
 
 1. [Tutorials on implementing a few sequence-to-sequence (seq2seq) models with PyTorch and TorchText](https://github.com/bentrevett/pytorch-seq2seq)
 
- > This repo contains tutorials covering understanding and implementing sequence-to-sequence (seq2seq) models using PyTorch 1.8, torchtext 0.9 and spaCy 3.0, using Python 3.8.
+> This repo contains tutorials covering understanding and implementing sequence-to-sequence (seq2seq) models using PyTorch 1.8, torchtext 0.9 and spaCy 3.0, using Python 3.8.
+
+
 
 
 2. [Tutorials on implementing a few sequence-to-sequence (seq2seq) models with PyTorch and TorchText](https://github.com/bentrevett/pytorch-sentiment-analysis)

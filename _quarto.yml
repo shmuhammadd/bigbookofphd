@@ -14,31 +14,22 @@ book:
   chapters:
     - index.qmd
     - preface.qmd
-    - part: dice.qmd
-      chapters: 
-        - basics.qmd
-        - packages.qmd
     - part: awosomewebsite.qmd
       chapters: 
+        - softwares.qmd
+        - books.qmd
         - github.qmd
-        - courses.qmd
         - websites.qmd
-    - part: AcademicPhrases.qmd
-      chapters:
-        - abstract.qmd
-        - intro.qmd
-        - modifying.qmd
-        - environments.qmd
+        - courses.qmd
     - part: thesis.qmd
       chapters:
         - july04.qmd
         - july05.qmd
-  appendices:
-    - a1-starting.qmd
-    - a2-packages.qmd
-    - a3-updating.qmd
-    - a4-data.qmd
-    - a5-debug.qmd 
+    - part: AcademicPhrases.qmd
+      chapters:
+        - abstract.qmd
+        - intro.qmd
+
 
 format:
   html: 
